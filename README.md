@@ -1,4 +1,4 @@
-# RF_fingerprint
+# RFfingerprint
 This repository contains folders with various capabilities, including
 
 1- simulateDataNonlinearities: a simulator for RF Fingerprinting data with various modulation types, including 5G data.  
